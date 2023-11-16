@@ -1,0 +1,12 @@
+scipy
+opencv-python
+tqdm
+yacs
+imageio
+open3d
+lxml
+networkx
+pytorch3d
+pymcubes
+python-fcl
+pytest
